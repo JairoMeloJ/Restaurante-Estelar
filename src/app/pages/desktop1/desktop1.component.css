@@ -1,0 +1,1687 @@
+@font-face {
+  font-family: 'BrownFalco';
+  src: url('../../../assets/Brown-Falco/BrownFalco.otf') format('opentype');
+}
+:host { 
+  display: contents; 
+  font-family: 'BrownFalco';
+}
+.desktop1-container {
+  min-height: 100vh;
+  font-family: 'BrownFalco';
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 7031px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(180deg, rgba(5, 1, 52, 0.832) 48%, rgba(45, 0, 46, 0.689) 48%, rgba(5, 0, 52, 0.815) 100%);
+  font-family: 'BrownFalco';
+}
+.desktop1-header {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 960px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-text {
+  top: 51px;
+  left: 650px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-text01 {
+  top: 356px;
+  left: 83px;
+  color: rgba(255, 255, 255, 1);
+  width: 647px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-group4 {
+  top: 44px;
+  left: 83px;
+  width: 325px;
+  height: 580px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-rectangle38 {
+  top: 517px;
+  left: 0px;
+  width: 212px;
+  height: 63px;
+  position: absolute;
+  background: #F800A3;
+  border: 2px solid #FFFFFF;
+  box-shadow: 0px 0px 41px #F800A3;
+  border-radius: 12px;
+  box-sizing: border-box;
+  font-family: 'BrownFalco';
+}
+.desktop1-text03 {
+  top: 535px;
+  left: 59px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-text05 {
+  left: 25px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector1 {
+  top: 201px;
+  left: 65%;
+  width: 672px;
+  height: 686px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-ellipse18 {
+  top: 416px;
+  left: 75%;
+  width: 58px;
+  height: 58px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-spaceship1 {
+  left: 60%;
+  width: 400px;
+  bottom: -25px;
+  height: 400px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector4 {
+  top: 622px;
+  left: 75%;
+  width: 93px;
+  height: 80px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-section4 {
+  top: 977px;
+  left: 5%;
+  width: 1440px;
+  height: 960px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-planet {
+  top: 137px;
+  left: 123px;
+  width: 327px;
+  height: 327px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-ellipse19 {
+  top: 346px;
+  left: 324px;
+  width: 134px;
+  height: 134px;
+  position: absolute;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-venus {
+  top: 366px;
+  left: 901px;
+  width: 380px;
+  height: 380px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 380px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group01 {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 380px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 380px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group02 {
+  top: 0px;
+  left: 0px;
+  width: 379.99853515625px;
+  height: 380px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector001 {
+  top: 174.6263885498047px;
+  left: 214.53384399414062px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector002 {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 380px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector003 {
+  top: 221.48899841308594px;
+  left: 25.473400115966797px;
+  width: 229px;
+  height: 104px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-ellipse20 {
+  top: 656px;
+  left: 1141px;
+  width: 134px;
+  height: 134px;
+  position: absolute;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector6 {
+  top: 218.51853942871094px;
+  left: 478px;
+  width: 488px;
+  height: 153px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector7 {
+  top: 663.3148803710938px;
+  left: 451px;
+  width: 434px;
+  height: 315px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-text08 {
+  top: 289px;
+  left: 463px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-text10 {
+  top: 711px;
+  left: 821px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-text12 {
+  top: -37px;
+  left: 473px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-ufo1 {
+  top: 682.9254150390625px;
+  left: 414px;
+  width: 165px;
+  height: 165px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group03 {
+  top: 22.56039047241211px;
+  left: 16.967918395996094px;
+  width: 131.064208984375px;
+  height: 119.879150390625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector004 {
+  top: 0px;
+  left: 0px;
+  width: 131px;
+  height: 120px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group04 {
+  top: 3.8211491107940674px;
+  left: 3.5399668216705322px;
+  width: 124.02521514892578px;
+  height: 112.46817779541016px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector005 {
+  top: 0px;
+  left: 0px;
+  width: 124px;
+  height: 112px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector006 {
+  top: 91.29234313964844px;
+  left: 18.61925506591797px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector007 {
+  top: 73.078125px;
+  left: 21.720457077026367px;
+  width: 17px;
+  height: 19px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector008 {
+  top: 103.94989776611328px;
+  left: 58.761962890625px;
+  width: 6px;
+  height: 7px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector009 {
+  top: 76.44852447509766px;
+  left: 58.49702453613281px;
+  width: 7px;
+  height: 27px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector010 {
+  top: 85.52448272705078px;
+  left: 100.32820892333984px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector011 {
+  top: 68.88231658935547px;
+  left: 88.7126235961914px;
+  width: 14px;
+  height: 18px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector012 {
+  top: 54.24007034301758px;
+  left: 15.287352561950684px;
+  width: 97px;
+  height: 21px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector013 {
+  top: 38.90675735473633px;
+  left: 4.389514446258545px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector014 {
+  top: 2.5043764114379883px;
+  left: 57.1959114074707px;
+  width: 37px;
+  height: 38px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector015 {
+  top: 1.6342382431030273px;
+  left: 47.27388381958008px;
+  width: 20px;
+  height: 40px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector016 {
+  top: 1.4653702974319458px;
+  left: 28.836069107055664px;
+  width: 31px;
+  height: 40px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector017 {
+  top: 30.313901901245117px;
+  left: 102.62496948242188px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector018 {
+  top: 41.31353759765625px;
+  left: 85.61759948730469px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector019 {
+  top: 46.53083038330078px;
+  left: 56.95647430419922px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector020 {
+  top: 46.00349807739258px;
+  left: 28.901947021484375px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector021 {
+  top: 21.574060440063477px;
+  left: 1.9271347522735596px;
+  width: 120px;
+  height: 35px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector022 {
+  top: 37.44856643676758px;
+  left: 8.653989791870117px;
+  width: 15px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector023 {
+  top: 65.90612030029297px;
+  left: 29.711101531982422px;
+  width: 67px;
+  height: 9px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group05 {
+  top: 31.5180606842041px;
+  left: 8.412349700927734px;
+  width: 109.35858154296875px;
+  height: 79.36571502685547px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector024 {
+  top: 16.700332641601562px;
+  left: 48.54680633544922px;
+  width: 15px;
+  height: 3px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector025 {
+  top: 7.319810390472412px;
+  left: 0.2446836680173874px;
+  width: 15px;
+  height: 4px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector026 {
+  top: 16.06165313720703px;
+  left: 20.490171432495117px;
+  width: 15px;
+  height: 3px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector027 {
+  top: 2.980232238769531e-7px;
+  left: 94.21340942382812px;
+  width: 15px;
+  height: 4px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector028 {
+  top: 10.854110717773438px;
+  left: 77.20543670654297px;
+  width: 15px;
+  height: 4px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector029 {
+  top: 19.60186004638672px;
+  left: -4.023313522338867e-7px;
+  width: 106px;
+  height: 15px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector030 {
+  top: 63.11099624633789px;
+  left: 10.209856986999512px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector031 {
+  top: 75.453125px;
+  left: 50.524658203125px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector032 {
+  top: 57.76718521118164px;
+  left: 93.22390747070312px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector033 {
+  top: 42.327762603759766px;
+  left: 9.52981185913086px;
+  width: 108px;
+  height: 17px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector034 {
+  top: 70.39110565185547px;
+  left: 88.71249389648438px;
+  width: 13px;
+  height: 16px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector035 {
+  top: 74.18802642822266px;
+  left: 22.73311424255371px;
+  width: 16px;
+  height: 18px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector036 {
+  top: 76.44852447509766px;
+  left: 61.19502258300781px;
+  width: 4px;
+  height: 26px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector037 {
+  top: 26.797964096069336px;
+  left: 28.836069107055664px;
+  width: 17px;
+  height: 14px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector038 {
+  top: 17.761184692382812px;
+  left: 57.19605255126953px;
+  width: 37px;
+  height: 23px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector039 {
+  top: 7.612790107727051px;
+  left: 62.778560638427734px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector040 {
+  top: 8.085707664489746px;
+  left: 34.82291793823242px;
+  width: 12px;
+  height: 21px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector041 {
+  top: 3.458845615386963px;
+  left: 52.12607955932617px;
+  width: 13px;
+  height: 38px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector042 {
+  top: 37.18498611450195px;
+  left: 1.9941266775131226px;
+  width: 119px;
+  height: 19px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-ufo {
+  top: 166.03204345703125px;
+  left: 999.0855102539062px;
+  width: 142px;
+  height: 142px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group06 {
+  top: 26.83056640625px;
+  left: 11.535059928894043px;
+  width: 118.9298324584961px;
+  height: 88.33940887451172px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector043 {
+  top: 0px;
+  left: 0px;
+  width: 119px;
+  height: 88px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group07 {
+  top: 4.418151378631592px;
+  left: 4.221184730529785px;
+  width: 110.26160430908203px;
+  height: 79.5887680053711px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector044 {
+  top: 0px;
+  left: 0px;
+  width: 110px;
+  height: 80px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector045 {
+  top: 45.25958251953125px;
+  left: 3.25999116897583px;
+  width: 104px;
+  height: 9px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector046 {
+  top: 36.49012756347656px;
+  left: 3.789193630218506px;
+  width: 102px;
+  height: 12px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group08 {
+  top: 64.69889831542969px;
+  left: 16.337039947509766px;
+  width: 79.458740234375px;
+  height: 11.643929481506348px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector047 {
+  top: 0.6145643591880798px;
+  left: -7.748603820800781e-7px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector048 {
+  top: 5.763045310974121px;
+  left: 30.918258666992188px;
+  width: 18px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector049 {
+  top: 0.000003516674041748047px;
+  left: 61.1540412902832px;
+  width: 18px;
+  height: 9px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector050 {
+  top: 51.32161331176758px;
+  left: 6.38710355758667px;
+  width: 97px;
+  height: 16px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector051 {
+  top: 3.2069222927093506px;
+  left: 26.68790626525879px;
+  width: 57px;
+  height: 32px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector052 {
+  top: 47.38484191894531px;
+  left: 3.8755548000335693px;
+  width: 103px;
+  height: 7px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector053 {
+  top: 27.07319450378418px;
+  left: 26.687713623046875px;
+  width: 57px;
+  height: 8px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector054 {
+  top: 66.98539733886719px;
+  left: 77.49129486083984px;
+  width: 18px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector055 {
+  top: 69.11942291259766px;
+  left: 20.643552780151367px;
+  width: 14px;
+  height: 4px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector056 {
+  top: 70.54010009765625px;
+  left: 47.25529861450195px;
+  width: 16px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector057 {
+  top: 52.93433380126953px;
+  left: 16.83097267150879px;
+  width: 87px;
+  height: 14px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector058 {
+  top: 41.66079330444336px;
+  left: 3.789193630218506px;
+  width: 96px;
+  height: 7px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector059 {
+  top: 6.54876708984375px;
+  left: 42.40717315673828px;
+  width: 32px;
+  height: 16px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector060 {
+  top: 53.755096435546875px;
+  left: 18.747377395629883px;
+  width: 62px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-section5 {
+  top: 1937px;
+  left: -131px;
+  width: 1440px;
+  height: 960px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-mercury {
+  top: 51px;
+  left: 197px;
+  width: 427px;
+  height: 429px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group09 {
+  top: 0px;
+  left: 0px;
+  width: 427.0000305175781px;
+  height: 429px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector061 {
+  top: 0px;
+  left: 0px;
+  width: 427px;
+  height: 429px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group10 {
+  top: -0.000012685311958193779px;
+  left: 51.750816345214844px;
+  width: 375.2492370605469px;
+  height: 429px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector062 {
+  top: 16.671276092529297px;
+  left: 97.43544006347656px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector063 {
+  top: 120.62301635742188px;
+  left: 23.46647834777832px;
+  width: 60px;
+  height: 61px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector064 {
+  top: 259.39190673828125px;
+  left: 97.43544006347656px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector065 {
+  top: 209.4433135986328px;
+  left: 4.842877388000488e-7px;
+  width: 91px;
+  height: 50px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector066 {
+  top: 0px;
+  right: 0px;
+  width: 280px;
+  height: 429px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-ellipse21 {
+  top: 375px;
+  left: 462px;
+  width: 134px;
+  height: 134px;
+  position: absolute;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-neptune {
+  top: 421px;
+  left: 893px;
+  width: 345px;
+  height: 345px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group11 {
+  top: 0px;
+  left: 0px;
+  width: 345px;
+  height: 345px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group12 {
+  top: 0px;
+  left: 0px;
+  width: 345px;
+  height: 345px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector067 {
+  top: 0px;
+  left: 0px;
+  width: 345px;
+  height: 345px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group13 {
+  top: -0.000010201474651694298px;
+  left: 60.973793029785156px;
+  width: 273.86090087890625px;
+  height: 140.8710479736328px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector068 {
+  top: 0px;
+  left: 0px;
+  width: 238px;
+  height: 96px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector069 {
+  top: 86.468505859375px;
+  left: 111.52619171142578px;
+  width: 162px;
+  height: 54px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector070 {
+  top: 0px;
+  left: 0px;
+  width: 345px;
+  height: 345px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector071 {
+  top: 273.3035888671875px;
+  left: 32.5206413269043px;
+  width: 280px;
+  height: 72px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector072 {
+  top: 130.96470642089844px;
+  left: 0.21646039187908173px;
+  width: 345px;
+  height: 92px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group14 {
+  top: 160.16221618652344px;
+  left: 149.27676391601562px;
+  width: 178.135009765625px;
+  height: 49.699275970458984px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector073 {
+  top: 12.892918586730957px;
+  left: -0.0000010132789611816406px;
+  width: 124px;
+  height: 37px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector074 {
+  top: -0.000007510185241699219px;
+  left: 138.66294860839844px;
+  width: 39px;
+  height: 33px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector075 {
+  top: 86.46916961669922px;
+  left: 172.5054168701172px;
+  width: 162px;
+  height: 54px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector076 {
+  top: -0.000010201474651694298px;
+  left: 158.97869873046875px;
+  width: 140px;
+  height: 66px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-ellipse22 {
+  top: 667px;
+  left: 1147px;
+  width: 134px;
+  height: 134px;
+  position: absolute;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector8 {
+  left: 413px;
+  width: 434px;
+  bottom: 143px;
+  height: 315px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-text14 {
+  top: 517px;
+  left: 252px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-text16 {
+  top: 792px;
+  left: 964px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'BrownFalco';
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-family: 'BrownFalco';
+}
+.desktop1-spaceship11 {
+  top: 552px;
+  left: 748.423828125px;
+  width: 131px;
+  height: 131px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-group15 {
+  top: 12.604525566101074px;
+  left: 13.440577507019043px;
+  width: 104.11814880371094px;
+  height: 105.79122924804688px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector077 {
+  top: 0px;
+  left: 0px;
+  width: 104px;
+  height: 106px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group16 {
+  top: 4.00734806060791px;
+  left: 3.9969167709350586px;
+  width: 96.1588363647461px;
+  height: 97.707275390625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector078 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 98px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector079 {
+  top: 62.7099494934082px;
+  left: 13.104965209960938px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector080 {
+  top: 65.18610382080078px;
+  left: 9.396682739257812px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector081 {
+  top: 82.37283325195312px;
+  left: 35.05147171020508px;
+  width: 9px;
+  height: 8px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector082 {
+  top: 84.92672729492188px;
+  left: 31.716798782348633px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector083 {
+  top: 44.106101989746094px;
+  left: 16.842926025390625px;
+  width: 43px;
+  height: 40px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector084 {
+  top: 43.70729064941406px;
+  left: 35.50096893310547px;
+  width: 21px;
+  height: 25px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector085 {
+  top: 57.420440673828125px;
+  left: 57.53010940551758px;
+  width: 21px;
+  height: 37px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector086 {
+  top: 2.9811859130859375px;
+  left: 77.28113555908203px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector087 {
+  top: 22.805286407470703px;
+  left: 2.9906256198883057px;
+  width: 36px;
+  height: 25px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector088 {
+  top: 3.0197701454162598px;
+  left: 25.774658203125px;
+  width: 67px;
+  height: 70px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector089 {
+  top: 14.670639991760254px;
+  left: 57.130977630615234px;
+  width: 27px;
+  height: 23px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-group17 {
+  top: 31.229812622070312px;
+  left: 2.990680456161499px;
+  width: 73.48409271240234px;
+  height: 63.42875671386719px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector090 {
+  top: 0px;
+  left: 0px;
+  width: 29px;
+  height: 17px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector091 {
+  top: 12.705852508544922px;
+  left: 32.81831359863281px;
+  width: 21px;
+  height: 25px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector092 {
+  top: 37.72288513183594px;
+  left: 54.53956985473633px;
+  width: 19px;
+  height: 26px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector093 {
+  top: 63.69135284423828px;
+  left: 13.105027198791504px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector094 {
+  top: 83.09210968017578px;
+  left: 35.05121612548828px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector095 {
+  top: 16.16484260559082px;
+  left: 57.223575592041016px;
+  width: 26px;
+  height: 22px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector096 {
+  top: 7.968901634216309px;
+  left: 78.29560852050781px;
+  width: 15px;
+  height: 10px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector097 {
+  top: 50.332218170166016px;
+  left: 16.84273910522461px;
+  width: 39px;
+  height: 34px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector098 {
+  top: 46.802589416503906px;
+  left: 44.93937301635742px;
+  width: 37px;
+  height: 26px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector099 {
+  top: 35.21677780151367px;
+  left: 25.774845123291016px;
+  width: 17px;
+  height: 23px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector100 {
+  top: 65.71162414550781px;
+  left: 9.405569076538086px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector101 {
+  top: 85.7205581665039px;
+  left: 31.71900749206543px;
+  width: 10px;
+  height: 8px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector102 {
+  top: 57.426326751708984px;
+  left: 77.34674072265625px;
+  width: 2px;
+  height: 20px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector103 {
+  top: 22.805660247802734px;
+  left: 12.500211715698242px;
+  width: 26px;
+  height: 6px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector104 {
+  top: 3.0197701454162598px;
+  left: 54.893287658691406px;
+  width: 29px;
+  height: 13px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-vector105 {
+  top: 4.667684555053711px;
+  left: 80.92438507080078px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
+.desktop1-section6 {
+  top: 2813px;
+  left: -68px;
+  width: 1440px;
+  height: 960px;
+  position: absolute;
+  font-family: 'BrownFalco';
+}
